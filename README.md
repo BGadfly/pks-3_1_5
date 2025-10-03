@@ -126,3 +126,4 @@ void _save() {
 Удаление
 https://skrinshoter.ru/vXuKDyLJeBD
 
+Выводы: Цели практической работы были достигнуты
